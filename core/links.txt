@@ -1,0 +1,3 @@
+# https://stackoverflow.com/questions/34466027/in-pytest-what-is-the-use-of-conftest-py-files
+https://github.com/pytest-dev/pytest-bdd/issues/295
+https://docs.pytest.org/en/latest/reference.html#_pytest.logging.LogCaptureFixture
